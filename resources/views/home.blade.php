@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>home blade</title>
+	<title>home</title>
 </head>
 <body>
 <center>
